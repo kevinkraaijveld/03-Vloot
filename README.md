@@ -42,3 +42,6 @@ De vloot moet aan de volgende technische eisen voldoen:
 * [Hoe stel ik ruimte binnen een element in?](http://www.w3schools.com/css/css_padding.asp)
 * [Waar kan ik een unieke tekst genereren?](http://www.lipsum.com)
 * [Hoe maak ik een horizontaal menu?](http://www.w3schools.com/css/css_navbar.asp)
+
+### Bekijk opdracht
+[De Vloot](https://www.kevii.nl/opdrachten/01-vloot/)
